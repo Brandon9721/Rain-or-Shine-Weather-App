@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.com/maps/dir/St.+John's,+NL,+Canada/47.5636322,-52.7102077/@47.5590513,-52.7483169,13z/data=!4m9!4m8!1m5!1m1!1s0x4b0ca38e6b0aa261:0x9e1fd4001f12261f!2m2!1d-52.7132976!2d47.5589987!1m0!3e0?shorturl=1&dg=dbrw&newdg=1&hl=en</url-->
+    <time>2016-12-01T16:32:15Z</time>
+  </metadata>
+  <wpt lat="47.5589987" lon="-52.7132976">
+    <name>St. John's</name>
+    <desc>St. John's, NL, Canada</desc>
+  </wpt>
+  <wpt lat="47.5636322" lon="-52.7102077">
+    <name>121 Queens Road</name>
+    <desc>121 Queens Road, St. John's, NL A1C 2B4, Canada</desc>
+  </wpt>
+<trk>
+  <name>St. John's to 121 Queens Road</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="47.5589813" lon="-52.7133067">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="47.55899" lon="-52.71336">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="47.5589947" lon="-52.7133626">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="47.55929" lon="-52.71319">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="47.55971" lon="-52.71294">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="47.55994" lon="-52.71278">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="47.56013" lon="-52.71264">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="47.56034" lon="-52.7125">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="47.56105" lon="-52.71199">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="47.56133" lon="-52.71178">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="47.5619" lon="-52.71133">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="47.5619021" lon="-52.7113274">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="47.5621" lon="-52.7112">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="47.56263" lon="-52.71091">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="47.56277" lon="-52.71087">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="47.56291" lon="-52.71075">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="47.56297" lon="-52.71071">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="47.56302" lon="-52.71067">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="47.5632" lon="-52.71059">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="47.56363" lon="-52.71041">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="47.5636317" lon="-52.7104121">
+    <name>TP021</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
