@@ -3,3 +3,6 @@ App was made from following along in Devslopes online iOS course. Uses Alamofire
 
 
 Open project with the '.xcworkspace' file. This is the one that can use cocoapods and Alamofire
+
+
+[Alt Text!](WeatherAppUI.png)
